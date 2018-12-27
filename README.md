@@ -9,5 +9,6 @@
  - [Cloud Events Spec](https://github.com/cloudevents/spec)
 
 ## NATS (Cloud Native Messaging System)
+ - [CNCF Decision](https://www.cncf.io/blog/2018/03/15/cncf-to-host-nats/)
  - [NATS documents](https://nats.io/documentation/)
  - [NATS source github](https://github.com/nats-io)
