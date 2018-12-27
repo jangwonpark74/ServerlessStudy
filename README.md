@@ -10,5 +10,6 @@
 
 ## NATS (Cloud Native Messaging System)
  - [CNCF Decision](https://www.cncf.io/blog/2018/03/15/cncf-to-host-nats/)
+ - [NAT presentation](https://www.slideshare.net/Apcera/simple-solutions-for-complex-problems)
  - [NATS documents](https://nats.io/documentation/)
  - [NATS source github](https://github.com/nats-io)
